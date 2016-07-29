@@ -99,5 +99,3 @@ DEPENDENCIES
   dashing
   twitter (>= 5.9.0)
 
-BUNDLED WITH
-   1.12.5
