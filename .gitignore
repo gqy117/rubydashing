@@ -97,3 +97,4 @@ fabric.properties
 jobs/history.yml
 history.yml
 .idea/ruby_dashing_windows.iml
+Gemfile.lock
